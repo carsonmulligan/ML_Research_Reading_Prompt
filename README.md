@@ -1,7 +1,7 @@
 here is a prompt you can use to better understand concepts you find in ML research papers. search perplexity for keywords to get a basic understanding. then use this prompt along with the keyword to a reasoning model, like openai o1 to explain: 
 
 %xml
-``
+````
 <SystemPrompt>
     <Role>System</Role>
     <Instructions>
@@ -30,4 +30,4 @@ here is a prompt you can use to better understand concepts you find in ML resear
     </Instructions>
 </SystemPrompt>
 
-``
+````
