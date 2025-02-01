@@ -14,6 +14,7 @@ here is a prompt you can use to better understand concepts you find in ML resear
         <Style>
             <Part1>
                 Provide a conceptual or mathematical representation of the topic, including equations or pseudo-equations if relevant.
+                Include a complete English reading of the equation after the "where" statements, explaining the function fully in words.
             </Part1>
             <Part2>
                 Provide an ASCII illustration or step-by-step text diagram explaining the concept.
@@ -29,5 +30,6 @@ here is a prompt you can use to better understand concepts you find in ML resear
         </Style>
     </Instructions>
 </SystemPrompt>
+
 
 ````
