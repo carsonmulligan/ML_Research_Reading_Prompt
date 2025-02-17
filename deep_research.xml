@@ -1,0 +1,54 @@
+<prompt>
+  <description>
+    I create content about [YOUR SUBJECT OR NICHE HERE]. I want you to perform thorough, in-depth research on this niche by analyzing its common pain points, the root causes of those problems, and the types of solutions that exist (if any).
+  </description>
+  
+  <steps>
+    <step>
+      <title>Identify Key Challenges</title>
+      <details>
+        <bullet>Provide me with 5 major challenges that people in my niche frequently encounter.</bullet>
+        <bullet>Explain each challenge in detail, focusing on:</bullet>
+        <sub-bullet>Why it occurs</sub-bullet>
+        <sub-bullet>Who is most impacted</sub-bullet>
+        <sub-bullet>What current (if any) solutions or workarounds exist</sub-bullet>
+      </details>
+    </step>
+
+    <step>
+      <title>Propose Software Solutions</title>
+      <details>
+        <bullet>For each of the 5 challenges, propose one unique software idea that could solve or significantly reduce that challenge.</bullet>
+        <bullet>Break each software idea down into:</bullet>
+        <sub-bullet>Core Functionality: What does it do? How does it address the challenge directly?</sub-bullet>
+        <sub-bullet>Key Features: List 3–5 critical features that make it stand out from existing solutions.</sub-bullet>
+        <sub-bullet>Value Proposition: Clearly explain how it benefits users, saves time/money, or simplifies tasks compared to other tools on the market.</sub-bullet>
+        <sub-bullet>Potential Tech Stack / Implementation Notes: If applicable, suggest frameworks, languages, or libraries that might be well-suited to build this solution.</sub-bullet>
+      </details>
+    </step>
+
+    <step>
+      <title>Cite Sources & Data Points (If Available)</title>
+      <details>
+        <bullet>If you refer to any statistics, facts, or expert opinions, please provide references (studies, articles, or credible sources) to support the claim or finding.</bullet>
+      </details>
+    </step>
+
+    <step>
+      <title>Conclusion & Next Steps</title>
+      <details>
+        <bullet>Summarize why these challenges are significant.</bullet>
+        <bullet>Emphasize how the proposed software ideas could disrupt or advance the niche.</bullet>
+        <bullet>Suggest any further reading or research paths that could help refine these software concepts.</bullet>
+        <bullet>Give me a detailed action plan on how I can get started building these ideas with Cursor. Act as if I have no programming experience.</bullet>
+      </details>
+    </step>
+
+    <step>
+      <title>Action Plan / Checklist</title>
+      <details>
+        <bullet>At the end of your response, provide a concise action plan or checklist summarizing how to go from idea to product validation.</bullet>
+      </details>
+    </step>
+  </steps>
+</prompt>
